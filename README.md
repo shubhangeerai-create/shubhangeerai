@@ -59,4 +59,4 @@ L.D.A.H Rajkiya Engineering College, Mainpuri
 
 Visit my portfolio website:
 
-https://shubhangeerai-create.github.io/shubhangee-portfolio/
+https://shubhangeerai-create.github.io/shubhangeerai/
